@@ -1,0 +1,14 @@
+{
+  "name": "debuff-sans",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A pixel font for 2D web games, made for debuff",
+  "license": "OFL-1.1",
+  "type": "module",
+  "scripts": {
+    "release": "node release.mjs"
+  },
+  "devDependencies": {
+    "opentype.js": "2.0.0"
+  }
+}
